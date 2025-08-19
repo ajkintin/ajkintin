@@ -4,7 +4,7 @@
 
 ### Future Pirate King of Code 👑
 
-<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="300" alt="One Piece GIF">
+
 
 ---
 
@@ -35,18 +35,7 @@ const strawHatCoder = {
 
 ---
 
-## 🗺️ Navigate to My Islands
 
-<p align="center">
-  <a href="mailto:ajquintinlanza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
 
 <div align="center">
 
